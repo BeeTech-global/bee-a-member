@@ -49,6 +49,7 @@ Nossa principal diretriz é "capacitar o indivíduo para melhorar o coletivo". C
 * PostgreSQL/MySQL/MariaDB
 * Javão Alegria
 * Cucumber os testes E2E
+* AWS e Docker
 
 ### Como vocês estão organizados?
 
