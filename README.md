@@ -1,6 +1,6 @@
 <h1 align="center">:bee: Bee a Member :bee:</h1>
 
-<div align="center">
+<div align="center" style="margin: 25px 0;">
 	<img src="https://beetech.global/images/BT_logo.svg" alt="BeeTech Global" width="500" />
 </div>
 
