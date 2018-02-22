@@ -1,7 +1,9 @@
 <h1 align="center">:bee: Bee a Member :bee:</h1>
 
-<div align="center" style="margin: 25px 0;">
+<div align="center">
+	<br />
 	<img src="https://beetech.global/images/BT_logo.svg" alt="BeeTech Global" width="500" />
+	<br />
 </div>
 
 <div align="center">
@@ -47,8 +49,8 @@ Nossa principal diretriz é "capacitar o indivíduo para melhorar o coletivo". C
 * Angular 1.x (_⚠️ legacy warning ⚠️_)
 * React/Redux
 * PostgreSQL/MySQL/MariaDB
-* Javão Alegria
-* Cucumber os testes E2E
+* _Javão_ Alegria
+* Cucumber para os testes E2E
 * AWS e Docker
 
 ### Como vocês estão organizados?
