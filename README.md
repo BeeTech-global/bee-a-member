@@ -77,4 +77,6 @@ E, falando em dia a dia, veja nosso [Instagram 📷](https://www.instagram.com/b
 
 Simples, (~_futuro(a) colega_~), basta acessar a seção de [issues](https://github.com/BeeTech-global/bee-a-member/issues). 
 
+Caso você ainda não encontre uma vaga publicada lá, não se desespere, ainda queremos te conhecer, então, preencha [esse formulário](https://form.jotformz.com/72976528872676) para começarmos uma boa conversa.
+
 Muito obrigado e boa sorte :)
