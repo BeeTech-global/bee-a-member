@@ -61,7 +61,7 @@ Basicamente, cada Hive é uma unidade de negócio.
 
 ### Ah, mas a TI é uma caixinha de surpresas...
 
-Sim, coleguinha, temos grandes desafios pela frente, mas como somos _guerreiros, aguerridos, injuriados e determinados_ nós vamos andando aí!
+Sim, coleguinha, temos grandes desafios pela frente, mas como somos _"guerreiros, aguerridos, injuriados e determinados" (~vide Charlinho~)_ nós vamos andando aí!
 
 Como spoiler, temos um grande legado para deixar legal! ~_(Sacou o trocadilho, anh anh?)_~
 
